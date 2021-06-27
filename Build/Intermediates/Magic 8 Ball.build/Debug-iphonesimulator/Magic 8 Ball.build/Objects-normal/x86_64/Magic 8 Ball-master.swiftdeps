@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "7e6a4047bc99c28e83594d5310cd57a8"
+build_time: [1623728091, 608961000]
+inputs:
+  "/Users/Ronish/Documents/iOS Udemy/Magic-8-Ball-iOS13/Magic 8 Ball/ViewController.swift": [1623727879, 291827597]
+  "/Users/Ronish/Documents/iOS Udemy/Magic-8-Ball-iOS13/Magic 8 Ball/AppDelegate.swift": [1623726675, 124023433]
+  "/Users/Ronish/Documents/iOS Udemy/Magic-8-Ball-iOS13/Magic 8 Ball/SceneDelegate.swift": [1623726675, 149013120]
